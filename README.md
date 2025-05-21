@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Achyuth Kumar Miryala 👋</h1>
 
-I'm a Data Science enthusiast with hands-on experience in **Machine Learning**, **NLP**, **Retrieval-Augmented Generation (RAG)** systems, and **Generative AI**. I'm currently pursuing my **Master’s in Data Science at the University of North Texas** (graduating May 2025), and I'm passionate about building scalable, intelligent solutions that transform raw data into valuable insights.
+I'm a Data Science enthusiast with hands-on experience in **Machine Learning**, **NLP**, **Retrieval-Augmented Generation (RAG)** systems, and **Generative AI**. I'm currently pursuing my **Master’s in Data Science at the University of North Texas** (May 2025), and I'm passionate about building scalable, intelligent solutions that transform raw data into valuable insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuthkumarmiryala/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/achyuthkumarmiryala)
