@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Achyuth Kumar Miryala 👋</h1>
+# Hello, I'm Achyuth Kumar Miryala 👋
 
-I'm a Data Science enthusiast with hands-on experience in **Machine Learning**, **NLP**, **Retrieval-Augmented Generation (RAG)** systems, and **Generative AI**. I'm currently pursuing my **Master’s in Data Science at the University of North Texas** (May 2025), and I'm passionate about building scalable, intelligent solutions that transform raw data into valuable insights.
+I'm a Data Science enthusiast with hands-on experience in **Machine Learning**, **NLP**, **Retrieval-Augmented Generation (RAG)** systems, and **Generative AI**. I recently completed my **Master’s in Data Science at the University of North Texas (May 2025)** and am passionate about building scalable, intelligent solutions that transform raw data into valuable insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuthkumarmiryala/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/achyuthkumarmiryala)
@@ -12,7 +12,8 @@ I'm a Data Science enthusiast with hands-on experience in **Machine Learning**, 
 
 My journey into data started with curiosity and has grown through hands-on projects—from **CNNs for medical imaging** to **RAG pipelines** for semantic search, and **AI agents** that answer questions using OpenAI.
 
-📍 Currently based in **Denton, TX**, I’m pursuing my Master's at UNT and working as a **Data Analyst** for UNT's Transportation Department where I’ve built ETL pipelines, automated reports, and designed SQL-based dashboards.
+📍 Currently based in **Denton, TX**, I recently earned my Master's in Data Science and previously worked as a **Data Analyst** at UNT's Transportation Department, where I developed ETL pipelines, automated reporting workflows, and created SQL-based dashboards for actionable insights. I'm now seeking full-time opportunities to bring my technical skills and creativity into impactful AI/ML projects.
+
 
 💡 I specialize in:
 
