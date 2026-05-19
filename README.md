@@ -4,7 +4,6 @@ I’m a **Data Engineer • AI/ML Engineer • BI Engineer • Data Analyst** wi
 
 I’m passionate about **end-to-end pipelines, multi-agent AI systems, and cloud-native architectures**, and thrive on projects that deliver measurable business impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuthkumarmiryala/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/achyuthkumarmiryala)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achyuthkumar286@gmail.com)  
 
