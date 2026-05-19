@@ -1,6 +1,6 @@
 # Hello, I'm Achyuth Kumar Miryala 👋
 
-I’m a **Data Engineer • AI/ML Engineer • BI Engineer • Data Analyst** with a **Master’s in Data Science from the University of North Texas (May 2025)**. I build **scalable AI and data-driven solutions** across healthcare, fintech, and enterprise domains, leveraging **ML, NLP, RAG systems, and generative AI** to turn raw data into actionable insights.
+I’m a **Data Engineer • AI/ML Engineer • BI Engineer • Data Analyst**. I build **scalable AI and data-driven solutions** across healthcare, fintech, and enterprise domains, leveraging **ML, NLP, RAG systems, and generative AI** to turn raw data into actionable insights.
 
 I’m passionate about **end-to-end pipelines, multi-agent AI systems, and cloud-native architectures**, and thrive on projects that deliver measurable business impact.
 
@@ -11,7 +11,6 @@ I’m passionate about **end-to-end pipelines, multi-agent AI systems, and cloud
 
 ## 🧠 About Me
 
-- **3+ years experience** in **data engineering, AI/ML, and BI analytics**  
 - Built **production-ready ML models, LLM agents, RAG pipelines, and BI dashboards**  
 - Skilled in **data ingestion, cleaning, modeling, and visualization**  
 - Experienced with **cloud platforms (GCP, AWS), streaming (Kafka), databases (SQL & NoSQL), and DevOps tools (Docker, Kubernetes, CI/CD)**  
