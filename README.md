@@ -52,7 +52,7 @@ I’m passionate about **end-to-end pipelines, multi-agent AI systems, and cloud
 ## 📫 Contact
 
 📧 [achyuthkumar286@gmail.com](mailto:achyuthkumar286@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/achyuthkumarmiryala/)  
+ 
 
 ---
 
