@@ -1,4 +1,4 @@
-# Hello, I'm Achyuth Kumar Miryala 👋
+# Hello, I'm Achyuth Kumar 👋
 
 I’m a **Data Engineer • AI/ML Engineer • BI Engineer • Data Analyst**. I build **scalable AI and data-driven solutions** across healthcare, fintech, and enterprise domains, leveraging **ML, NLP, RAG systems, and generative AI** to turn raw data into actionable insights.
 
